@@ -12,7 +12,7 @@ function ToyCard({ toy, onDeleteToy, onLikeToy }) {
         className="toy-avatar"
       />
 
-      <p>{toy.likes} Likes</p>
+      <p>{toy.likes} Likes </p>
 
       <button
         className="like-btn"
